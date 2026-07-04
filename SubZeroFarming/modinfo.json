@@ -1,0 +1,14 @@
+{
+  "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+  "type": "Code",
+  "modid": "subzerofarming",
+  "name": "SubZeroFarming",
+  "authors": [
+    "Zaedin"
+  ],
+  "description": "Allow crops to grow even in sub freezing temperatures.",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.22.0"
+  }
+}
